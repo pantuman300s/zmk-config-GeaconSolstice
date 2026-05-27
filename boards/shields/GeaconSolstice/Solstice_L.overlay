@@ -27,7 +27,7 @@
             mv-min-max = <1600>;
             mv-deadzone = <100>;
             scale-multiplier = <1>;
-            scale-divisor = <100>;
+            scale-divisor = <100>; 
             output-min = <0>;
             output-max = <24>;
             invert;
